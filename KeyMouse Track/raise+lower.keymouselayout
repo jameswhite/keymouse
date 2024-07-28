@@ -14,12 +14,12 @@
    "intsetting2": 0,
    "intsetting1": 0,
    "keyType": 17,
-   "keyCode": 1,
+   "keyCode": 2,
    "strsetting4": "",
    "strsetting3": "",
    "strsetting2": "",
    "strsetting1": "",
-   "desc": "Scroll Up"
+   "desc": "Scroll Right"
   },
   "142": {
    "action": 8,
@@ -31,12 +31,12 @@
    "intsetting2": 0,
    "intsetting1": 0,
    "keyType": 17,
-   "keyCode": 255,
+   "keyCode": 3,
    "strsetting4": "",
    "strsetting3": "",
    "strsetting2": "",
    "strsetting1": "",
-   "desc": "Scroll Down"
+   "desc": "Scroll Left"
   },
   "141": {
    "action": 8,
